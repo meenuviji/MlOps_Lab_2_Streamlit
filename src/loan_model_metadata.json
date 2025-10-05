@@ -1,0 +1,65 @@
+{
+  "model_type": "RandomForestClassifier",
+  "features": [
+    "age",
+    "income",
+    "loan_amount",
+    "loan_term",
+    "credit_score",
+    "employment_length",
+    "home_ownership",
+    "purpose",
+    "dti_ratio",
+    "has_cosigner",
+    "previous_defaults"
+  ],
+  "accuracy": 0.835,
+  "approval_rate": 0.48,
+  "training_samples": 4000,
+  "feature_importance": [
+    {
+      "feature": "credit_score",
+      "importance": 0.3536763047561447
+    },
+    {
+      "feature": "dti_ratio",
+      "importance": 0.14150999287263422
+    },
+    {
+      "feature": "previous_defaults",
+      "importance": 0.11812360842389875
+    },
+    {
+      "feature": "income",
+      "importance": 0.11160828415350718
+    },
+    {
+      "feature": "loan_amount",
+      "importance": 0.10374411137704781
+    },
+    {
+      "feature": "employment_length",
+      "importance": 0.06266074449023001
+    },
+    {
+      "feature": "age",
+      "importance": 0.03727866675158954
+    },
+    {
+      "feature": "home_ownership",
+      "importance": 0.02387634876345676
+    },
+    {
+      "feature": "purpose",
+      "importance": 0.016602377617714496
+    },
+    {
+      "feature": "loan_term",
+      "importance": 0.015734437432137118
+    },
+    {
+      "feature": "has_cosigner",
+      "importance": 0.015185123361639343
+    }
+  ]
+}

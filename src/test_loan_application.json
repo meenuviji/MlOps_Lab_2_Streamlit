@@ -1,0 +1,15 @@
+{
+  "input_test": {
+    "age": 35,
+    "income": 75000,
+    "loan_amount": 200000,
+    "loan_term": 240,
+    "credit_score": 720,
+    "employment_length": 5,
+    "home_ownership": 1,
+    "purpose": 0,
+    "dti_ratio": 0.35,
+    "has_cosigner": 0,
+    "previous_defaults": 0
+  }
+}
