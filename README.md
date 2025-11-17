@@ -253,7 +253,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**Meena** **Periasamy**
 MLOps Lab Assignment - Fall 2024  
 Northeastern University
 
