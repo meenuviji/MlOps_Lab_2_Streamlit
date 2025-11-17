@@ -254,6 +254,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Meena** **Periasamy**
+
 MLOps Lab Assignment - Fall 2024  
 Northeastern University
 
